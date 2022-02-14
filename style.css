@@ -1,0 +1,47 @@
+h1 {
+  background: purple;
+  color: white;
+  text-align: center;
+  font-family: Garamond, Times, serif;
+  font-size: 26px;
+}
+
+h2 {
+  background: purple;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+} 
+
+.thumbnail {
+  height: 300px;
+  width: auto;
+}
+
+p.desc {
+  font-style: italic;
+}
+
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ol li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
